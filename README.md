@@ -7,3 +7,6 @@ Our goal in this analysis was to look at PyBer's activity in the 3 city types, s
 ## Results
 
 ![](https://github.com/Mikeblanchard/PyBer_Analysis/blob/main/analysis/Rides_chart.png)
+
+![](https://github.com/Mikeblanchard/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
