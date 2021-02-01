@@ -22,4 +22,4 @@ The most evident conclusions we have reached from this data analysis is that Pyb
 
 Additionally, Early January is the least profitable period of the moths we looked at. Perhaps limiting the number of drivers during this time would encourage a core group of drivers to stay on. We recommend thinking about forming a team of full-time and and part-time drivers. 
 
-Finally, given the scarcity of rural drivers, we recommend raising the 
+Finally, given the scarcity of rural drivers, we recommend looking at raising the cost of rides in rural areas, as they do the most amount of rides per driver. The fewer alternative options that exist in rural areas, like subways, buses, and taxis could be a leverage point for a higher price threshold. 
